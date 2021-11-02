@@ -4,9 +4,9 @@
     <h4 align="center">By: Somayyeh Gholami & Mehran Kazeminia</h4>
 </div>
 
-<align="center">img src="https://raw.githubusercontent.com/MehranKazeminia/Logistic-Equation/main/r101.png">
-
 * The "Logistics Equation" seems extremely simple and completely deterministic:
+
+<img src="https://raw.githubusercontent.com/MehranKazeminia/Logistic-Equation/main/r101.png">
 
 \begin{align*}
 \\x_{t+1}&= Rx_t (1 - x_t)
