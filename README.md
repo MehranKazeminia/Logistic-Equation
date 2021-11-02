@@ -14,4 +14,4 @@
 
 * When R = 4, chaos occurs. Even with the slightest change in x0, the next results are new random numbers.
 
-<img src="https://github.com/MehranKazeminia/Logistic-Equation/blob/main/PNG_Results/__results___28_0.png">
+<img src="https://github.com/MehranKazeminia/Logistic-Equation/blob/main/PNG_Results/__results___29_0.png">
