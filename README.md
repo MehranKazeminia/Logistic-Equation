@@ -4,10 +4,7 @@
     <h4 align="center">By: Somayyeh Gholami & Mehran Kazeminia</h4>
 </div>
 
-* The "Logistics Equation" seems extremely simple and completely deterministic:
+<img src="https://github.com/MehranKazeminia/Logistic-Equation/blob/main/logistic101.png">
 
-<img src="https://github.com/MehranKazeminia/Logistic-Equation/blob/main/PNG_Results/__results___10_0.png">
+* The "Logistic Equation" seems extremely simple and completely deterministic.
 
-\begin{align*}
-\\x_{t+1}&= Rx_t (1 - x_t)
-\end{align*}
