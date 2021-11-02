@@ -4,6 +4,9 @@
     <h4 align="center">By: Somayyeh Gholami & Mehran Kazeminia</h4>
 </div>
 
+
+<img src="https://github.com/SomayyehGholami/Smart-Blockchain-with-Solidity/blob/master/imageForArticle/im101.jpg">
+
 * The "Logistics Equation" seems extremely simple and completely deterministic:
 
 \begin{align*}
