@@ -5,7 +5,7 @@
 
 * #### By: Somayyeh Gholami & Mehran Kazeminia
 
-> https://www.kaggle.com/mehrankazeminia/p1-logistic-equation-feigenbaum-constant/notebook
+https://www.kaggle.com/mehrankazeminia/p1-logistic-equation-feigenbaum-constant/notebook
 
 <img src="https://github.com/MehranKazeminia/Logistic-Equation/blob/main/logistic101.png">
 
