@@ -4,7 +4,7 @@
     <h4 align="center">By: Somayyeh Gholami & Mehran Kazeminia</h4>
 </div>
 
-<img src="center""https://raw.githubusercontent.com/MehranKazeminia/Logistic-Equation/main/r101.png">
+<align="center">img src="https://raw.githubusercontent.com/MehranKazeminia/Logistic-Equation/main/r101.png">
 
 * The "Logistics Equation" seems extremely simple and completely deterministic:
 
