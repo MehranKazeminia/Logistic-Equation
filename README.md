@@ -3,9 +3,9 @@
     <h1 align="center">Logistic equation & Feigenbaum constant</h1>            
 </div>
 
-#### By: Somayyeh Gholami & Mehran Kazeminia
+* #### By: Somayyeh Gholami & Mehran Kazeminia
 
-https://www.kaggle.com/mehrankazeminia/p1-logistic-equation-feigenbaum-constant/notebook
+> https://www.kaggle.com/mehrankazeminia/p1-logistic-equation-feigenbaum-constant/notebook
 
 <img src="https://github.com/MehranKazeminia/Logistic-Equation/blob/main/logistic101.png">
 
