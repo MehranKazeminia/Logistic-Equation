@@ -11,3 +11,7 @@
 * But for example, when R = 4, in successive iterations, all the results of this equation are different. That is, it actually generates random numbers.
 
 <img src="https://github.com/MehranKazeminia/Logistic-Equation/blob/main/PNG_Results/__results___27_0.png">
+
+* When R = 4, chaos occurs. Even with the slightest change in x0, the next results are new random numbers.
+
+<img src="https://github.com/MehranKazeminia/Logistic-Equation/blob/main/PNG_Results/__results___28_0.png">
