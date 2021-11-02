@@ -3,11 +3,11 @@
     <h1 align="center">Logistic equation & Feigenbaum constant</h1>            
 </div>
 
+<img src="https://github.com/MehranKazeminia/Logistic-Equation/blob/main/logistic101.png">
+
 * #### By: Somayyeh Gholami & Mehran Kazeminia
 
 https://www.kaggle.com/mehrankazeminia/p1-logistic-equation-feigenbaum-constant/notebook
-
-<img src="https://github.com/MehranKazeminia/Logistic-Equation/blob/main/logistic101.png">
 
 * The "Logistic Equation" seems extremely simple and completely deterministic.
 
