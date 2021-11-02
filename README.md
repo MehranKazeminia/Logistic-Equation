@@ -3,7 +3,7 @@
     <h1 align="center">Logistic equation & Feigenbaum constant</h1>            
 </div>
 
-##### By: Somayyeh Gholami & Mehran Kazeminia
+#### By: Somayyeh Gholami & Mehran Kazeminia
 
 https://www.kaggle.com/mehrankazeminia/p1-logistic-equation-feigenbaum-constant/notebook
 
